@@ -22,6 +22,18 @@ Until I complete the migration to Markdown, the original text will remain availa
 
 * [Original text](original/biblio.html)
 
+### Contributors
+
+Reviews not marked, or marked with **[CJ]**, were written by me, Chris Jeris.  Other
+contributors are marked; thanks to all of them for their input:
+* **[PC]** Pete Clark
+* **[PS]** Pete Storm
+* **[BB]** Ben Blander
+* **[RV]** Rebecca Virnig
+* **[BR]** Ben Recht
+* **[MG]** Marci Gambrell
+* **[YU]** Yuka Umemoto
+
 ### Contributing
 
 Pull requests, with either new books or new reviews of existing books, are welcome.  I reserve
