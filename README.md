@@ -1,6 +1,3 @@
-chicago-ug-math-bib
-===================
-
 # Chicago undergraduate mathematics bibliography
 
 This is an annotated bibliography of books that may be useful to undergraduates in pure
@@ -10,9 +7,10 @@ over the intervening years, and I am now maintaining it and accepting contributi
 
 I am not a "real mathematician", though some of the other contributors to this bibliography
 have since gone on to become such.  I'm just some guy; I write software for a living, and try
-to understand homotopy type theory when I'm not changing diapers.  As you read, I ask that you
-forgive the arrogance and ignorance of a younger me, who knew everything, and take this
-resource as it was intended: as a guide that might help another student find their way.
+to understand [homotopy type theory](http://homotopytypetheory.org) when I'm not changing
+diapers.  As you read, I ask that you forgive the arrogance and ignorance of a younger me, who
+knew everything, and take this resource as it was intended: as a guide that might help another
+student find their way.
 
 ## Contents
 
@@ -32,9 +30,8 @@ text.
 
 ### License
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International
-license (CC-BY-SA), whose text may be found at
-http://creativecommons.org/licenses/by-sa/4.0/legalcode .
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International
+license (CC-BY-SA)](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 ### Disclaimer
 
