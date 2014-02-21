@@ -2,8 +2,9 @@
 
 This is an annotated bibliography of books that may be useful to undergraduates in pure
 mathematics.  I wrote the original version, with the help of some classmates, during my final
-year at the University of Chicago.  To my great surprise, it has been useful to many people
-over the intervening years, and I am now maintaining it and accepting contributions on Github.
+year (1997-98) at the University of Chicago.  To my great surprise, it has been useful to many
+people over the intervening years, and I am now maintaining it and accepting contributions on
+Github.
 
 I am not a "real mathematician", though some of the other contributors to this bibliography
 have since gone on to become such.  I'm just some guy; I write software for a living, and try
@@ -18,7 +19,7 @@ student find their way.
 * [Intermediate](intermediate/README.md)
 * [Advanced](advanced/README.md)
 
-Until I complete the migration to Markdown, the original text will remain available:
+In addition, the original text (as of January 1999) will remain available:
 
 * [Original text](original/biblio.html)
 
