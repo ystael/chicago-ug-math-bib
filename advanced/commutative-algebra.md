@@ -1,4 +1,4 @@
-Advanced - Commutative and homological algebra
+# Advanced - Commutative and homological algebra
 
 #### Atiyah/Macdonald, *Introduction to commutative algebra*
 
