@@ -27,13 +27,18 @@ In addition, the original text (as of January 1999) will remain available:
 
 Reviews not marked, or marked with **[CJ]**, were written by me, Chris Jeris.  Other
 contributors are marked; thanks to all of them for their input:
-* **[PC]** Pete Clark
-* **[PS]** Pete Storm
-* **[BB]** Ben Blander
-* **[RV]** Rebecca Virnig
-* **[BR]** Ben Recht
-* **[MG]** Marci Gambrell
-* **[YU]** Yuka Umemoto
+* Contributors to the original: Pete Clark; Pete Storm; Ben Blander; Rebecca Virnig; Ben Recht;
+  Marci Gambrell; Yuka Umemoto.
+* Contributors since 2014: G Tani.
+
+### Other similar resources
+
+**[G Tani]** Some other similar resources and lists:
+
+* [How to Learn Math and Physics, by John Baez](http://math.ucr.edu/home/baez/books.html)
+* [The syllabus of the Cambridge Mathematical Tripos (PDF)](http://www.maths.cam.ac.uk/undergrad/course/schedules.pdf)
+* [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
+* [So you'd like to... Get Maturity in Pure Mathematics for Grad School](http://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
 
 ### Contributing
 
