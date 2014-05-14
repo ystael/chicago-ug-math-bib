@@ -2,7 +2,7 @@
 
 #### Hirsch, *Differential topology*
 
-**[PC]** A solid introduction to differential topology, but maybe a bit bogged down in
+**[Pete Clark]** A solid introduction to differential topology, but maybe a bit bogged down in
 technical details: a theme of the subject is that arbitrary maps can be approximated by very
 nice maps under the right conditions.  Hirsch has a chapter which he investigates conditions
 *other* than "the right ones," and comes up with some sharpish estimates about when you can
@@ -12,11 +12,11 @@ topologists everywhere.  Why bother?  I own the book, and there's some good stuf
 retrospect I'd rather own Guillemin and Pollack, which proceeds a bit more geometrically and
 far less rigorously.  The rigor is optional and can be filled in later.
 
-**[CJ]** I agree with Pete's assessment of the book, but not with his opinions on rigor.
-Hirsch is a good second differential topology book; after you see how all the touchy-feely
-stuff goes (move it a little bit to make it transverse), read Hirsch to see how it actually
-works, and how a nice theoretical framework can be constructed around the soft geometric ideas.
-I think it's indispensable to see how things are *done*.
+**[Chris Jeris]** I agree with Pete's assessment of the book, but not with his opinions on
+rigor.  Hirsch is a good second differential topology book; after you see how all the
+touchy-feely stuff goes (move it a little bit to make it transverse), read Hirsch to see how it
+actually works, and how a nice theoretical framework can be constructed around the soft
+geometric ideas.  I think it's indispensable to see how things are *done*.
 
 #### Lang, *Differential and Riemannian manifolds*
 

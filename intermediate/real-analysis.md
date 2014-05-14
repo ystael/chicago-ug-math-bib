@@ -15,12 +15,12 @@ too skinny and streamlined, but I think it's beautiful.  (Ignore chapters 9 and 
 confusing and insufficiently motivated development of multivariable calculus.  Chapter 11 is
 all right for Lebesgue integration, but there are better treatments elsewhere.)
 
-**[PC]** I agree 100% with what Chris says, but I want to add my voice that this is (through
-chapter 8) the cleanest exposition I have ever seen.  I still flip back to this to check things
-out.
+**[Pete Clark]** I agree 100% with what Chris says, but I want to add my voice that this is
+(through chapter 8) the cleanest exposition I have ever seen.  I still flip back to this to
+check things out.
 
-**[BR]** I must insist that Chapters 9 and 10 are not THAT bad.  They're worth revisiting if
-you are tired of Spivak and do Carmo.
+**[Ben Recht]** I must insist that Chapters 9 and 10 are not THAT bad.  They're worth
+revisiting if you are tired of Spivak and do Carmo.
 
 #### Apostol, *Mathematical analysis*
 
@@ -59,7 +59,7 @@ Extended applications appear occasionally to lend context, but on the whole ther
 motivation (and few exercises).  The book is also difficult to use as a reference work, because
 the authors develop only the results they need to get where they're going.
 
-**[PC]** Agreed.  But it's cheap and though you may wonder why you're learning so much
+**[Pete Clark]** Agreed.  But it's cheap and though you may wonder why you're learning so much
 functional analysis before you see a Lebesgue integral, it's still clear and easy to read, so
 there's no reason why you shouldn't own it.
 
@@ -108,15 +108,15 @@ the results.  Nevertheless it's a good reference or self-study book.  Topics: In
 L^p spaces, Banach and Hilbert spaces, Radon-Nikodym theorem and differentiation, Fubini's
 theorem, Fourier transforms.
 
-**[PC]** Yes, how wonderful that there's one book whose first half contains all the analysis
-that you'll ever need to know!  This book is advanced and the exposition is austere ("which
-gives (5).  Applying (3) to (4), we get (6)") but it is absolutely crystalline in its clarity
-(exception: is its proof of the L^2 inversion theorem for Fourier transforms valid?  I'm not so
-sure.)  Isn't this the one math book that every student must buy sooner or later (aside from
-Hardy and Wright, of course)?  Some rainy day you'll discover that the book has a second half
-and find some very interesting theorems in there, but don't confuse it with a course on complex
-analysis, because it's a weird-ass treatment of complex analysis viewed through the eyes of a
-conventional analyst.  Think of it as a bonus.
+**[Pete Clark]** Yes, how wonderful that there's one book whose first half contains all the
+analysis that you'll ever need to know!  This book is advanced and the exposition is austere
+("which gives (5).  Applying (3) to (4), we get (6)") but it is absolutely crystalline in its
+clarity (exception: is its proof of the L^2 inversion theorem for Fourier transforms valid?
+I'm not so sure.)  Isn't this the one math book that every student must buy sooner or later
+(aside from Hardy and Wright, of course)?  Some rainy day you'll discover that the book has a
+second half and find some very interesting theorems in there, but don't confuse it with a
+course on complex analysis, because it's a weird-ass treatment of complex analysis viewed
+through the eyes of a conventional analyst.  Think of it as a bonus.
 
 #### Lang, *Real and functional analysis*
 
@@ -136,9 +136,9 @@ space by lowercase theta.  He proves many theorems three times in gradually incr
 generality.  He leaves whole proofs to the exercises, and then depends on them later in the
 text.  And I don't like his construction of Lebesgue integration.  (Nyaah, so there.)
 
-**[BR]** This is such a terrible book!  He leaves the hardest theorems to the reader and proves
-some really simple-minded things with too much machinery.  For example, he assigns the Urysohn
-lemma for normal spaces as an exercise for the reader and then has to use the Baire category
-theorem to show that on Banach spaces, linear operators are continuous iff they commute with
-taking limits.  If you have to take 208 or 272, find a supplementary text.  You'll be happy you
-did.
+**[Ben Recht]** This is such a terrible book!  He leaves the hardest theorems to the reader and
+proves some really simple-minded things with too much machinery.  For example, he assigns the
+Urysohn lemma for normal spaces as an exercise for the reader and then has to use the Baire
+category theorem to show that on Banach spaces, linear operators are continuous iff they
+commute with taking limits.  If you have to take 208 or 272, find a supplementary text.  You'll
+be happy you did.

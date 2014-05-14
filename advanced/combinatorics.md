@@ -2,10 +2,10 @@
 
 #### Lovasz, *Problems in combinatorics*
 
-**[PS]** You simply must include what Hungarian mathematicians consider the most important math
-book ever, Laszlo Lovasz's huge tome covering combinatorics from an elementary level to
-Ph.D. level in one book.  It teaches combinatorics the way Hungarians think it should be
-taught, by doing lots of problems.  The problems are very hard, but in the book there are
+**[Pete Storm]** You simply must include what Hungarian mathematicians consider the most
+important math book ever, Laszlo Lovasz's huge tome covering combinatorics from an elementary
+level to Ph.D. level in one book.  It teaches combinatorics the way Hungarians think it should
+be taught, by doing lots of problems.  The problems are very hard, but in the book there are
 separate sections for problems, hints (which are often quite helpful), and full solutions.
 Every budding young Hungarian combinatorist spends a year doing every problem in this book
 sometime before he finishes his Ph.D.  As a side treat, the questions are often filled with
@@ -16,7 +16,7 @@ it's horribly expensive unless you buy it in Hungary, where it's still $60.  If 
 this book in Eckhart, then maybe it's not so important to include it.  On the other hand, Babai
 did help write it, so it is relevant nonetheless.
 
-**[CJ]** A forint is about half a cent these days.
+**[Chris Jeris]** A forint is about half a cent these days.
 
 #### Stanley, *Enumerative combinatorics* I
 

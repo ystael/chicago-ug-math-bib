@@ -12,16 +12,16 @@ map, and the exercises are mostly too easy, with a few too hard.  But this book 
 first learned about tensor products, and why the matrix elements go the way they do and not the
 other way (Halmos is very careful on this point).
 
-**[PC]** I own this book and read through it often, but it's never taught me linear algebra per
-se.  Let's agree that it's too abstract for a reasonable first introduction to linear algebra;
-it's really meant for students who already know (some) linear algebra to read through and
-appreciate one particular, and particularly elegant, presentation of the material.  If you want
-to know about the linear algebra which surrounds functional analysis, then by all means read
-this book, but much of the material is nonstandard and a bit curious from the perspective of
-mainstream linear algebra; projections seem to be the most important linear map, and there are
-many sections lovingly devoted to commuting projections, decomposing projections, etc.  I still
-am not sure why Halmos deifies the \[,\] as much as he does, and quite honestly, I would learn
-multilinear algebra anywhere but here.
+**[Pete Clark]** I own this book and read through it often, but it's never taught me linear
+algebra per se.  Let's agree that it's too abstract for a reasonable first introduction to
+linear algebra; it's really meant for students who already know (some) linear algebra to read
+through and appreciate one particular, and particularly elegant, presentation of the material.
+If you want to know about the linear algebra which surrounds functional analysis, then by all
+means read this book, but much of the material is nonstandard and a bit curious from the
+perspective of mainstream linear algebra; projections seem to be the most important linear map,
+and there are many sections lovingly devoted to commuting projections, decomposing projections,
+etc.  I still am not sure why Halmos deifies the \[,\] as much as he does, and quite honestly,
+I would learn multilinear algebra anywhere but here.
 
 #### Curtis, *Abstract linear algebra*
 

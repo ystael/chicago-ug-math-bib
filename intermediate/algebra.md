@@ -10,23 +10,23 @@ learn by doing, so here we go:
 
 [MR 92k:00007](http://www.ams.org/mathscinet-getitem?mr=92k%3A00007)
 
-**[PC]** I bought this for 257--I was at the age where I uncritically bought all assigned texts
-(actually, I may still be at that age; I don't recall passing on buying any course texts
-recently), but as Chris knows the joke was on me, since we used the instructor's lecture notes
-and not Dummit/Foote at all.  So I didn't really read it that much at the time.  I have read it
-since, since it is one of two general abstract algebra books in my collection.  I think it's an
-excellent undergraduate reference in that it has something to say, and often a lot to say,
-about precisely everything that an undergraduate would ever run into in an algebra class--and
-I'm not even exaggerating.  I would say this is a good book to have on your shelf if you're an
-undergraduate because you can look up anything; I used it this fall as a solid supplementary
-reference for character theory to Alperin and Bell's *Groups and representations*, and it had
-an amazing amount of material, all clearly explained.  (Warning: there is an incorrect entry in
-one of the character tables; it's either A_5 or S_5, I can't remember which.)  Look elsewhere,
-particularly below, for a good exposition of modules over a principal ideal domain; D/F's
-exposition is convoluted and overly lengthy.  In fact, overall I would use this book as a
-reference instead of a primary text, because the idea of reading it through from start to
-finish scares me.  It also has many, many good problems which develop even more topics (e.g.,
-commutative algebra and algebraic geometry).
+**[Pete Clark]** I bought this for 257--I was at the age where I uncritically bought all
+assigned texts (actually, I may still be at that age; I don't recall passing on buying any
+course texts recently), but as Chris knows the joke was on me, since we used the instructor's
+lecture notes and not Dummit/Foote at all.  So I didn't really read it that much at the time.
+I have read it since, since it is one of two general abstract algebra books in my collection.
+I think it's an excellent undergraduate reference in that it has something to say, and often a
+lot to say, about precisely everything that an undergraduate would ever run into in an algebra
+class--and I'm not even exaggerating.  I would say this is a good book to have on your shelf if
+you're an undergraduate because you can look up anything; I used it this fall as a solid
+supplementary reference for character theory to Alperin and Bell's *Groups and
+representations*, and it had an amazing amount of material, all clearly explained.  (Warning:
+there is an incorrect entry in one of the character tables; it's either A\_5 or S\_5, I can't
+remember which.)  Look elsewhere, particularly below, for a good exposition of modules over a
+principal ideal domain; D/F's exposition is convoluted and overly lengthy.  In fact, overall I
+would use this book as a reference instead of a primary text, because the idea of reading it
+through from start to finish scares me.  It also has many, many good problems which develop
+even more topics (e.g., commutative algebra and algebraic geometry).
 
 #### Herstein, *Topics in algebra*
 
@@ -40,9 +40,9 @@ quite pretty.  Many good exercises.  (Not to be confused with *Abstract algebra*
 [MR 96j:00001](http://www.ams.org/mathscinet-getitem?mr=96j%3A00001), which is a much-cut
 version for non-honors classes.)
 
-**[PC]** But this is the book I would use if I were a well-prepared undergraduate wanting to
-learn abstract algebra for the first time.  Wonderful exposition--clean, chatty but not
-longwinded, informal--and a very efficient coverage of just the most important topics of
+**[Pete Clark]** But this is the book I would use if I were a well-prepared undergraduate
+wanting to learn abstract algebra for the first time.  Wonderful exposition--clean, chatty but
+not longwinded, informal--and a very efficient coverage of just the most important topics of
 undergraduate algebra. Think of it as a slimmed down D/F.  "No field theory" is certainly an
 exaggeration; the exposition there is quite brief, and the restriction to fields of
 characteristic zero obscures the fact that much of the theory presented, including the Galois
@@ -112,9 +112,9 @@ to see whether you find Mac Lane's style congenial.  Not to be confused with Bir
 *A survey of modern algebra* [MR 31 #2250](http://www.ams.org/mathscinet-getitem?mr=31+%232250)
 (a much shorter and easier book).
 
-**[BR]** I used Mac Lane/Birkhoff's book pretty heavily in Math 257 and 258.  Unlike most
-algebra books I've seen, they don't put all the group theory at the beginning and all of the
-field theory at the end, but prefer to develop each topic a little bit at a time and then
+**[Ben Recht]** I used Mac Lane/Birkhoff's book pretty heavily in Math 257 and 258.  Unlike
+most algebra books I've seen, they don't put all the group theory at the beginning and all of
+the field theory at the end, but prefer to develop each topic a little bit at a time and then
 develop it with more depth later.  As a result, this book is hard to use as a reference.  You
 can't get past rings without tackling categories and universal constructions which are used
 heavily throughout the remainder of the text.  However, their treatment of categorical algebra

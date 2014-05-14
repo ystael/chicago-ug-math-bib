@@ -28,8 +28,8 @@ not try to read it until your second or third year of graduate school.  It prese
 of compact Riemann surfaces as someone who already knew the general principles would see it, as
 a specialization of complex algebraic geometry.
 
-**[PC]** This book lies on my shelf from Math 314, waiting for someone smarter than me to come
-by and read it.  I think I read pages 27 and 28 about 50 times, but that's about it.
+**[Pete Clark]** This book lies on my shelf from Math 314, waiting for someone smarter than me
+to come by and read it.  I think I read pages 27 and 28 about 50 times, but that's about it.
 
 #### Jost, *Compact Riemann surfaces*
 

@@ -28,16 +28,16 @@ work all the way through Spivak volume 2.
 
 [MR 82g:53003a](http://www.ams.org/mathscinet-getitem?mr=82g%3A53003a)
 
-**[PC]** Volume 1 is the best introduction to smooth manifold theory and differential topology
-that I know of.  Every chapter of this book has come in handy for me at one time or another.
-Ben and I like to describe the book as "locally readable": his exposition is very careful, but
-sometimes he takes too damn long to explain a single concept.  Luckily, despite Spivak's
-efforts to the contrary, you can flip around and read chapter by chapter, and I recommend this.
-There is so much good stuff in here.
+**[Pete Clark]** Volume 1 is the best introduction to smooth manifold theory and differential
+topology that I know of.  Every chapter of this book has come in handy for me at one time or
+another.  Ben and I like to describe the book as "locally readable": his exposition is very
+careful, but sometimes he takes too damn long to explain a single concept.  Luckily, despite
+Spivak's efforts to the contrary, you can flip around and read chapter by chapter, and I
+recommend this.  There is so much good stuff in here.
 
-**[CJ]** Buy it and read it over and over and over.  Don't skip the exercises because that's
-where he puts all the freaky examples.  It's true that sometimes he talks too much, but for the
-loving detail in which he lays out difficult concepts, he can be forgiven.
+**[Chris Jeris]** Buy it and read it over and over and over.  Don't skip the exercises because
+that's where he puts all the freaky examples.  It's true that sometimes he talks too much, but
+for the loving detail in which he lays out difficult concepts, he can be forgiven.
 
 #### Spivak, *A comprehensive introduction to differential geometry*, 2
 

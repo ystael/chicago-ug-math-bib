@@ -11,8 +11,8 @@ a length.  Besides, there are wonderful tidbits here and there (did you know tha
 invented the Dedekind cut?).  At least check it out once, to read his proof of the Pythagorean
 theorem.  (Thanks to Jonathan Beere ('95) for convincing me it was worthwhile.)
 
-**[PC]** I have Volume I, and I have to admit I haven't really read it.  I do think that I
-would benefit if someone rammed some of it down my throat though, because nowadays we
+**[Pete Clark]** I have Volume I, and I have to admit I haven't really read it.  I do think
+that I would benefit if someone rammed some of it down my throat though, because nowadays we
 undergraduates are trained to regard "geometric" as a strong pejorative&mdash;the very
 antithesis of rigor and proof.
 
@@ -23,6 +23,6 @@ This is a text on "advanced Euclidean geometry", starting with the numberless cl
 "college geometry" texts you can find this stuff in, but most of them are aimed at math-ed
 majors; this book and Coxeter's other one (see below) have them all beat.
 
-**[PC]** I like this book.  I don't own it but I've flipped through it more than once and I
-agree that it has a pleasantly non-brain-dead quality to it.  There are interesting geometric
-facts that you probably haven't seen before in here.
+**[Pete Clark]** I like this book.  I don't own it but I've flipped through it more than once
+and I agree that it has a pleasantly non-brain-dead quality to it.  There are interesting
+geometric facts that you probably haven't seen before in here.

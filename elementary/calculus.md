@@ -18,12 +18,12 @@ epsilon-pushing takes the place of the words "compact" and "connected").  Nevert
 the best calculus book overall, and I've seen it do a wonderful job of brain rectification on
 many people.
 
-**[PC]** Yes, it's good, although perhaps more of the affection comes from more advanced
-students who flip back through it?  Most of my exposure to this book comes from tutoring and
-grading for 161, but I seriously believe that working as many problems as possible (it must be
-acknowledged that many of them are difficult for first year students, and a few of them are
-*really* hard!) is invaluable for developing the mathematical maturity and epsilonic technique
-that no math major should be without.
+**[Pete Clark]** Yes, it's good, although perhaps more of the affection comes from more
+advanced students who flip back through it?  Most of my exposure to this book comes from
+tutoring and grading for 161, but I seriously believe that working as many problems as possible
+(it must be acknowledged that many of them are difficult for first year students, and a few of
+them are *really* hard!) is invaluable for developing the mathematical maturity and epsilonic
+technique that no math major should be without.
 
 Other calculus books worthy of note, and why:
 

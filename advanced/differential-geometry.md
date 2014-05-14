@@ -29,16 +29,16 @@ written as a textbook.  The notes and bibliography are very nice, however.
 
 #### Rosenberg, *The Laplacian on a Riemannian manifold*
 
-**[BB]** A different approach to geometry, through analysis.  Lots of exercises integrated
-critically into the text; proves the Hodge theorem using the heat kernel.  Introduces analysis
-on manifolds.  I've only gotten through the first chapter and I've skimmed the rest, so I can't
-say too much more, but it looks interesting.
+**[Ben Blander]** A different approach to geometry, through analysis.  Lots of exercises
+integrated critically into the text; proves the Hodge theorem using the heat kernel.
+Introduces analysis on manifolds.  I've only gotten through the first chapter and I've skimmed
+the rest, so I can't say too much more, but it looks interesting.
 
 #### do Carmo, *Riemannian geometry*
 
-**[BB]** A readable and interesting introduction to the subject.  It covers some interesting
-material, such as the sphere theorem and Preissman's theorem about fundamental groups of
-manifolds of negative curvature, and much more.
+**[Ben Blander]** A readable and interesting introduction to the subject.  It covers some
+interesting material, such as the sphere theorem and Preissman's theorem about fundamental
+groups of manifolds of negative curvature, and much more.
 
 #### Boothby, *Introduction to differentiable manifolds and Riemannian geometry*
 

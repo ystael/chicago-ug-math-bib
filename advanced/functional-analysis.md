@@ -41,6 +41,6 @@ what's really different about the infinite-dimensional case.
 
 #### Zimmer, *Essential Results of Functional Analysis*
 
-**[BB]** It's a U of C published blue book, and is extremely concise and quickly presents most
-of the stuff one needs to know.  It's certainly not easy--Chapter 0 presents weak
+**[Ben Blander]** It's a U of C published blue book, and is extremely concise and quickly
+presents most of the stuff one needs to know.  It's certainly not easy--Chapter 0 presents weak
 derivatives--but it's a good second course.

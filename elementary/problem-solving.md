@@ -14,9 +14,9 @@ After you grapple with the IMO problems for a while, turn here to find a book th
 much as any book can) the art of solving them.  Cognitive strategies are laid out with examples
 of problems (mostly from Olympiads and Putnams) to which they apply.
 
-**[PC]** I own this, or at least I did -- I haven't seen it since high school.  I'm really
-*not* a big contest problem-solver, but I did use this book and I think it helped to prepare me
-for Chicago Mathematics.  Lots of good problems, not all of them inane.
+**[Pete Clark]** I own this, or at least I did -- I haven't seen it since high school.  I'm
+*really not* a big contest problem-solver, but I did use this book and I think it helped to
+*prepare me for Chicago Mathematics.  Lots of good problems, not all of them inane.
 
 #### Pólya, *How to solve it*
 
@@ -24,7 +24,7 @@ I haven't read this, but it's supposed to be the "classic" version of Larson abo
 
 #### Pólya, *Mathematics and plausible reasoning*, I and II
 
-**[PC]** These are the "sequels" to Pólya's *How to solve it*.  They are definitely
+**[Pete Clark]** These are the "sequels" to Pólya's *How to solve it*.  They are definitely
 interesting, although their main interest may be psychological/philosophical (only relative to
 mathematics do philosophy and psychology merge!)  I'm not sure that one can really become a
 significantly better problem-solver by reading a book about the nature of mathematical

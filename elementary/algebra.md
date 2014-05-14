@@ -15,10 +15,10 @@ to recommend to bright younger students or friends (or parents!)
 
 #### Cohen, *Precalculus with unit circle trigonometry*
 
-**[RV]** I used this book in high school and absolutely loved it. It's very skimpy on proofs,
-and really should not be used for that sort of insight.  However, in terms of understanding how
-to apply various mathematical concepts it's wonderful.  It has a large number of graphs,
-examples, and easy reference tables. It covers all the algebra, trig, and cartesian geometry
-that any good high school math sequence should deal with. I have used it for years as a
-reference book (e.g., what exactly is Cramer's rule again...) Solutions to a number of the
+**[Rebecca Virnig]** I used this book in high school and absolutely loved it. It's very skimpy
+on proofs, and really should not be used for that sort of insight.  However, in terms of
+understanding how to apply various mathematical concepts it's wonderful.  It has a large number
+of graphs, examples, and easy reference tables. It covers all the algebra, trig, and cartesian
+geometry that any good high school math sequence should deal with. I have used it for years as
+a reference book (e.g., what exactly is Cramer's rule again...) Solutions to a number of the
 problems are in the back, and the problems are not entirely applications.
