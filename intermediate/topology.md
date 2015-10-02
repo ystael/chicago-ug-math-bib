@@ -72,3 +72,25 @@ common sense.
 
 **[Yuka Umemoto]** This is a point-set topology book.  Less elementary than Munkres, but useful
 as a reference book for grad students.
+
+#### Armstrong, *Basic Topology*
+
+[Amazon Link](http://www.amazon.com/Basic-Topology-Undergraduate-Texts-Mathematics/dp/0387908390)
+
+**[Sayantan Khan]** This a nicer introduction to topology for people who've been put off by Munkres'
+extremely dry style. This book also progresses faster through the material than Munkres, sacrificing
+a certain amount of detail that's there in Munkres in favour of getting to the really interesting stuff,
+i.e. algebraic topology. This book also attempts to build up a geometric feeling for the subject material,
+as opposed to the intuition one gets after reading Munkres, which is rather analytic. This book does require
+some amount of real analysis experience, but apart from that, there are no other prerequisites (the little
+amount of algebra one requires can be easily picked up).
+
+#### Simmons, *Introduction to Topology and Modern Analysis*
+
+[Amazon Link](http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389)
+
+**[Sayantan Khan]** This is the book I'd suggest to study in conjunction with Armstrong's Basic Topology,
+as this book builds up the sufficient familiarity one needs with analytic techniques to completely work
+through Armstrong. Even by itself, the book is quite sufficient for the reader the get familiar with basic
+topology, starting off with metric spaces and then moving on to general topological spaces. However, this
+book only develops topology until a point before it goes off to Banach and Hilbert spaces.
