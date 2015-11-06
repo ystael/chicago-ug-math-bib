@@ -29,7 +29,7 @@ Reviews not marked, or marked with **[CJ]**, were written by me, Chris Jeris.  O
 contributors are marked; thanks to all of them for their input:
 * Contributors to the original: Pete Clark; Pete Storm; Ben Blander; Rebecca Virnig; Ben Recht;
   Marci Gambrell; Yuka Umemoto.
-* Contributors since 2014: G Tani.
+* Contributors since 2014: G Tani, Sayantan Khan.
 
 ### Other similar resources
 
