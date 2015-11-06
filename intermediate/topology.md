@@ -75,7 +75,7 @@ as a reference book for grad students.
 
 #### Armstrong, *Basic Topology*
 
-[Amazon Link](http://www.amazon.com/Basic-Topology-Undergraduate-Texts-Mathematics/dp/0387908390)
+[MR 84f:55001](http://www.ams.org/mathscinet-getitem?mr=84f%3A55001)
 
 **[Sayantan Khan]** This a nicer introduction to topology for people who've been put off by Munkres'
 extremely dry style. This book also progresses faster through the material than Munkres, sacrificing
@@ -87,7 +87,7 @@ amount of algebra one requires can be easily picked up).
 
 #### Simmons, *Introduction to Topology and Modern Analysis*
 
-[Amazon Link](http://www.amazon.com/Introduction-Topology-Modern-Analysis-Simmons/dp/1575242389)
+[MR 84b:54002](http://www.ams.org/mathscinet-getitem?mr=84b%3A54002)
 
 **[Sayantan Khan]** This is the book I'd suggest to study in conjunction with Armstrong's Basic Topology,
 as this book builds up the sufficient familiarity one needs with analytic techniques to completely work
