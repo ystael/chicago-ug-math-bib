@@ -36,7 +36,7 @@ contributors are marked; thanks to all of them for their input:
 **[G Tani]** Some other similar resources and lists:
 
 * [How to Learn Math and Physics, by John Baez](http://math.ucr.edu/home/baez/books.html)
-* [The syllabus of the Cambridge Mathematical Tripos (PDF)](http://www.maths.cam.ac.uk/undergrad/course/schedules.pdf)
+* [The syllabus of the Cambridge Mathematical Tripos (PDF)](https://www.maths.cam.ac.uk/system/files/schedules.pdf)
 * [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
 * [So you'd like to... Get Maturity in Pure Mathematics for Grad School](http://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
 
