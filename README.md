@@ -14,9 +14,17 @@ resource as it was intended: as a guide that might help another student find the
 
 ## Contents
 
-* [Elementary](elementary/README.md)
-* [Intermediate](intermediate/README.md)
-* [Advanced](advanced/README.md)
+* [School mathematics](school.md): things you could teach to tenth graders, even if they
+  usually don't
+* [The foundation](foundation.md): the math everyone in _any_ quantitative field should know
+* [The first floor](first-floor.md): the core of pure mathematics that every math student needs
+  to absorb
+* [The patio](patio.md): interesting topics that are accessible without a full "ready for grad
+  school" background
+* [The garage](garage.md): it's where you keep your wrenches, that is, applied mathematics
+* [The second floor](second-floor.md): more advanced treatment of subjects from the first
+  floor, or topics that need a broader background to tackle at all
+* [The attic](attic.md): if you are up here you probably don't need this bibliography any more
 
 In addition, the original text (as of January 1999) will remain available:
 
