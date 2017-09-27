@@ -8,10 +8,9 @@ Github.
 
 I am not a "real mathematician", though some of the other contributors to this bibliography
 have since gone on to become such.  I'm just some guy; I write software for a living, and try
-to understand [homotopy type theory](http://homotopytypetheory.org) when I'm not changing
-diapers.  As you read, I ask that you forgive the arrogance and ignorance of a younger me, who
-knew everything, and take this resource as it was intended: as a guide that might help another
-student find their way.
+to learn small bits of math in my smaller bits of spare time.  As you read, I ask that you
+forgive the arrogance and ignorance of a younger me, who knew everything, and take this
+resource as it was intended: as a guide that might help another student find their way.
 
 ## Contents
 
@@ -36,7 +35,7 @@ contributors are marked; thanks to all of them for their input:
 **[G Tani]** Some other similar resources and lists:
 
 * [How to Learn Math and Physics, by John Baez](http://math.ucr.edu/home/baez/books.html)
-* [The syllabus of the Cambridge Mathematical Tripos (PDF)](https://www.maths.cam.ac.uk/system/files/schedules.pdf)
+* [The syllabus of the Cambridge Mathematical Tripos (PDF)](https://www.maths.cam.ac.uk/undergrad/course/schedules.pdf)
 * [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
 * [So you'd like to... Get Maturity in Pure Mathematics for Grad School](http://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
 
