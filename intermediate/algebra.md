@@ -122,7 +122,7 @@ is one of the more readable introductions to the theory I've come across.
 
 #### Judson, *Abstract Algebra Theory and Applications*
 
-I'm recommending this book because it is open source and freely available online. A physical 
+I'm recommending this book because it is open-source and freely available online. A physical 
 copy is also available very cheaply. The text is targeted at upper level undergraduates. The 
 first half of the book covers group theory up through the Sylow Theorems and the second half 
 covers rings, integral domains, Boolean algebras, vector spaces, fields, and Galois theory.

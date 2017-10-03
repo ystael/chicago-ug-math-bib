@@ -48,6 +48,6 @@ day, your choices are Greub and Bourbaki.  Greub is easier to carry.  End of sto
 #### Beezer, *A First Course in Linear Algebra*
 
 This textbook is intended for medium level undergraduates as an introduction to topics found
-in a typical first course in linear algebra. It is freely available online and is open source,
+in a typical first course in linear algebra. It is freely available online and is open-source,
 although physical copies can be purchased relatively cheaply. The author also has made Sage
 code accompanying the course available.
