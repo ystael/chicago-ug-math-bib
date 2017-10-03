@@ -119,3 +119,13 @@ develop it with more depth later.  As a result, this book is hard to use as a re
 can't get past rings without tackling categories and universal constructions which are used
 heavily throughout the remainder of the text.  However, their treatment of categorical algebra
 is one of the more readable introductions to the theory I've come across.
+
+#### Judson, *Abstract Algebra Theory and Applications*
+
+I'm recommending this book because it is open source and freely available online. A physical 
+copy is also available very cheaply. The text is targeted at upper level undergraduates. The 
+first half of the book covers group theory up through the Sylow Theorems and the second half 
+covers rings, integral domains, Boolean algebras, vector spaces, fields, and Galois theory.
+
+The book also covers some applications, including cryptography and coding theory. The author's
+website includes supplementary material and Sage code.
