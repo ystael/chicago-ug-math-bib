@@ -44,3 +44,10 @@ whenever I can't remember what a positive-definite matrix is.
 You may never need The Book on linear algebra.  But one day, you may just have to know fifteen
 different ways to decompose a linear map into parts with different nice properties.  On that
 day, your choices are Greub and Bourbaki.  Greub is easier to carry.  End of story.
+
+#### Beezer, *A First Course in Linear Algebra*
+
+This textbook is intended for medium level undergraduates as an introduction to topics found
+in a typical first course in linear algebra. It is freely available online and is open source,
+although physical copies can be purchased relatively cheaply. The author also has made Sage
+code accompanying the course available.
