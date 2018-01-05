@@ -55,8 +55,8 @@ text.
 
 ### License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International
-license (CC-BY-SA)](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+license (CC-BY-NC-SA)](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 ### Disclaimer
 
