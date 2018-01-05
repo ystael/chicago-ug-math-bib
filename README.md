@@ -47,6 +47,14 @@ contributors are marked; thanks to all of them for their input:
 * [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
 * [So you'd like to... Get Maturity in Pure Mathematics for Grad School](http://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
 
+### Republication
+
+I have become aware of the existence of sites reproducing the material of this
+bibliography with Amazon affiliate links attached.  As I understand it, the
+Creative Commons license under which the bibliography is licensed permits them
+to do so. I do not endorse any such monetized republication, and I politely
+request that readers not support it.
+
 ### Contributing
 
 Pull requests, with either new books or new reviews of existing books, are welcome.  I reserve
