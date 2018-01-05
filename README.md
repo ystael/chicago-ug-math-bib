@@ -45,7 +45,7 @@ I have become aware of the existence of sites reproducing the material of this
 bibliography with Amazon affiliate links attached.  As I understand it, the
 Creative Commons license under which the bibliography is licensed permits them
 to do so. I do not endorse any such monetized republication, and I politely
-request that readers support it.
+request that readers not support it.
 
 ### Contributing
 
