@@ -34,11 +34,3 @@ This text takes years to read. Consequently, most newly minted set theory PhDs h
 
 This three-volume collection spanning over 2000 pages is the de facto reference compendium for modern set theory. 
 This text is meant for the professional researcher. PhD students (like me) spend weeks understanding offhand remarks and lone paragraphs in here.
-
-#### Chang & Kiesler, *Model Theory*
-
-**[Noah Schoem]**
-
-[MR 0532927](https://mathscinet.ams.org/mathscinet-getitem?mr=0532927)
-
-Standard graduate introduction to model theory; Math 277 sometimes teaches the basics of formal logic and model theory (i.e. Completeness, Compactness, and Löwenheim-Skolem) from the first two chapters. Heavily covers ultrapowers and saturation, which is interesting material, but forms only a small part of model theory and isn't a major focus of active research.

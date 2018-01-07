@@ -49,6 +49,14 @@ about what's going on and less unmotivated symbol-pushing than in E/F/T.  The fl
 is, the constructions may or may not be epsilon less precise.  I'm not a logician; if you are,
 write some reviews so I can replace these lousy ones!
 
+#### Chang & Kiesler, *Model Theory*
+
+**[Noah Schoem]**
+
+[MR 0532927](https://mathscinet.ams.org/mathscinet-getitem?mr=0532927)
+
+Standard graduate introduction to model theory; Math 277 sometimes teaches the basics of formal logic and model theory (i.e. Completeness, Compactness, and Löwenheim-Skolem) from the first two chapters. Heavily covers ultrapowers and saturation, which is interesting material, but forms only a small part of model theory and isn't a major focus of active research.
+
 #### Landau, *Foundations of analysis*
 
 [MR 12,397m](http://www.ams.org/mathscinet-getitem?mr=12%2C397m)
