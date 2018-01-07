@@ -20,6 +20,19 @@ to another book (Fraenkel and Bar-Hillel, *Foundations of set theory*
 [MR 49 #10546](http://www.ams.org/mathscinet-getitem?mr=49+%2310546)), which is missing from
 Eckhart Library.  Good for culture.
 
+#### Kunen, *Set Theory: An Introduction to Independence Results*
+
+**[Noah Schoem]**
+
+[MR 2905394](https://mathscinet.ams.org/mathscinet-getitem?mr=2905394)
+
+Advanced undergraduate introduction to the core questions, principles, and tools of modern set theory. 
+Kunen's text develops the foundations of set theory, beginning with the axioms of and motivation for ZFC and a fast review of formal logic. 
+Kunen then covers some basic consistency proofs. 
+The text continues to the Constructible Universe L, some basic inner model theory, and the consistency of the Continuum Hypothesis, 
+and concludes with the method of Forcing, Iterated Forcing, the independence of the Continuum Hypothesis, and the consistency of Martin's Axiom. 
+The later chapters are quite difficult, but fundamental to modern set theory.
+
 #### Ebbinghaus/Flum/Thomas, *Mathematical logic*
 
 [MR 95e:03002](http://www.ams.org/mathscinet-getitem?mr=95e%3A03002)
