@@ -49,7 +49,7 @@ about what's going on and less unmotivated symbol-pushing than in E/F/T.  The fl
 is, the constructions may or may not be epsilon less precise.  I'm not a logician; if you are,
 write some reviews so I can replace these lousy ones!
 
-#### Chang & Kiesler, *Model Theory*
+#### Chang & Keisler, *Model Theory*
 
 **[Noah Schoem]**
 
