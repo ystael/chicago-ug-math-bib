@@ -26,12 +26,14 @@ Eckhart Library.  Good for culture.
 
 [MR 2905394](https://mathscinet.ams.org/mathscinet-getitem?mr=2905394)
 
-Advanced undergraduate introduction to the core questions, principles, and tools of modern set theory. 
-Kunen's text develops the foundations of set theory, beginning with the axioms of and motivation for ZFC and a fast review of formal logic. 
-Kunen then covers some basic consistency proofs. 
-The text continues to the Constructible Universe L, some basic inner model theory, and the consistency of the Continuum Hypothesis, 
-and concludes with the method of Forcing, Iterated Forcing, the independence of the Continuum Hypothesis, and the consistency of Martin's Axiom. 
-The later chapters are quite difficult, but fundamental to modern set theory.
+Advanced undergraduate introduction to the core questions, principles, and tools of modern set theory. As such, the text builds up to deciding what *cannot* be proven using ZFC alone (including the Continuum Hypothesis). 
+Despite the advanced matter, Kunen is about as clear and accessible introduction to such an abstract subject as possible. That said, I would recommend reading Ebbinghaus/Flum/Thomas or Enderton before reading Kunen, simply because Kunen writes chapter I as a quick review of syntax, rather than a deep exposition.
+
+Chapter II covers odd combinatorial results in set theory, and can reasonably be skipped by the uninterested until needed.
+
+Chapters III-VIII cover the core of modern set theory, with Chapters III and IV covering the basics, V and VI covering the Constructible Universe L (the foundations of inner model theory), and VII and VIII covering Forcing (and the consistency of the failure of the Continuum Hypothesis). 
+
+I recommend reading Chapters I, III, and IV for anyone interested in the general foundations of set theory. The chapters on L and Forcing will be of more interest to pure set theorists; for intermediate undergraduate study in pure set theory, I would recommend Chapters V - VII; chapter VIII on iterated forcing is better suited to advanced study.
 
 #### Ebbinghaus/Flum/Thomas, *Mathematical logic*
 
