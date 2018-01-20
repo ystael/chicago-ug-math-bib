@@ -24,7 +24,9 @@ This book has 38 chapters divided into 3 sections:
   * Advanced Set Theory: The Constructible Universe, Forcing, Iteration Forcing, More on Large Cardinals, Large Cardinals and Inner Model Theory, Descriptive Set Theory
   * Additional Topics
 
-This text takes years to read. Consequently, most newly minted set theory PhDs have not read the entire work. However, an ambitious undergraduate could very well expand their set-theoretic knowledge by reading and solving exercises in the first six chapters.
+This text takes years to read. Consequently, most newly minted set theory PhDs have not read the entire book. 
+
+I could plausibly recommend the first six chapters to an ambitious undergraduate looking for further study in the foundations of set theory and "basic" cardinal arithmetic; and I first learned about L and first really understood forcing out of chapters 13, 14, and parts of 15 in a senior independent study. 
 
 #### Foreman, Kanamori, et al, *Handbook of Set Theory*
 
@@ -32,5 +34,5 @@ This text takes years to read. Consequently, most newly minted set theory PhDs h
 
 [MR 2768678](https://mathscinet.ams.org/mathscinet-getitem?mr=2768678)
 
-This three-volume collection spanning over 2000 pages is the de facto reference compendium for modern set theory. 
-This text is meant for the professional researcher. PhD students (like me) spend weeks understanding offhand remarks and lone paragraphs in here.
+A three-volume collection spanning over 2000 pages, this is the de facto reference compendium for modern set theory. 
+This text is meant for the professional researcher; I have seen postdocs and above learning out of material in here. I recommend reading this if Jech doesn't provide the depth and complexity desired; this is possible but highly unlikely at the undergraduate level.

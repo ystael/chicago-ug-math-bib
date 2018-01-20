@@ -33,7 +33,7 @@ Chapter II covers odd combinatorial results in set theory, and can reasonably be
 
 Chapters III-VIII cover the core of modern set theory, with Chapters III and IV covering the basics, V and VI covering the Constructible Universe L (the foundations of inner model theory), and VII and VIII covering Forcing (and the consistency of the failure of the Continuum Hypothesis). 
 
-I recommend reading Chapters I, III, and IV for anyone interested in the general foundations of set theory. The chapters on L and Forcing will be of more interest to pure set theorists; for intermediate undergraduate study in pure set theory, I would recommend Chapters V - VII; chapter VIII on iterated forcing is better suited to advanced study.
+I recommend reading Chapters I, III, and IV for anyone interested in the general foundations of set theory. The chapters on L and Forcing will be of more interest to pure set theorists.  For intermediate undergraduate study in pure set theory, I would recommend Chapters V - VII; chapter VIII on iterated forcing is better suited to advanced study.
 
 #### Ebbinghaus/Flum/Thomas, *Mathematical logic*
 
