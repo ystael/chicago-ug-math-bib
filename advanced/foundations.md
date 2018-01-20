@@ -35,4 +35,8 @@ I could plausibly recommend the first six chapters to an ambitious undergraduate
 [MR 2768678](https://mathscinet.ams.org/mathscinet-getitem?mr=2768678)
 
 A three-volume collection spanning over 2000 pages, this is the de facto reference compendium for modern set theory. 
-This text is meant for the professional researcher; I have seen postdocs and above learning out of material in here. I recommend reading this if Jech doesn't provide the depth and complexity desired; this is possible but highly unlikely at the undergraduate level.
+This text is meant for the professional researcher; I have seen postdocs and above learning out of material in here. The entire collection is available online as a free PDF.
+
+Chapter 1, Kanamori's introduction, is one of the few great historical overviews of modern set theory out there, complete with motivation; it is accessible to anyone familiar with one of the intermediate texts in foundations (if a bit long).
+
+Otherwise, I recommend reading this if Jech doesn't provide the depth and complexity desired; this is possible but highly unlikely at the undergraduate level.
