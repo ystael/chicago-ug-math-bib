@@ -20,6 +20,21 @@ to another book (Fraenkel and Bar-Hillel, *Foundations of set theory*
 [MR 49 #10546](http://www.ams.org/mathscinet-getitem?mr=49+%2310546)), which is missing from
 Eckhart Library.  Good for culture.
 
+#### Kunen, *Set Theory: An Introduction to Independence Results*
+
+**[Noah Schoem]**
+
+[MR 2905394](https://mathscinet.ams.org/mathscinet-getitem?mr=2905394)
+
+Advanced undergraduate introduction to the core questions, principles, and tools of modern set theory. As such, the text builds up to deciding what *cannot* be proven using ZFC alone (including the Continuum Hypothesis). 
+Despite the advanced matter, Kunen is about as clear and accessible introduction to such an abstract subject as possible. That said, I would recommend reading Ebbinghaus/Flum/Thomas or Enderton before reading Kunen, simply because Kunen writes chapter I as a quick review of syntax, rather than a deep exposition.
+
+Chapter II covers odd combinatorial results in set theory, and can reasonably be skipped by the uninterested until needed.
+
+Chapters III-VIII cover the core of modern set theory, with Chapters III and IV covering the basics, V and VI covering the Constructible Universe L (the foundations of inner model theory), and VII and VIII covering Forcing (and the consistency of the failure of the Continuum Hypothesis). 
+
+I recommend reading Chapters I, III, and IV for anyone interested in the general foundations of set theory. The chapters on L and Forcing will be of more interest to pure set theorists.  For intermediate undergraduate study in pure set theory, I would recommend Chapters V - VII; chapter VIII on iterated forcing is better suited to advanced study.
+
 #### Ebbinghaus/Flum/Thomas, *Mathematical logic*
 
 [MR 95e:03002](http://www.ams.org/mathscinet-getitem?mr=95e%3A03002)
@@ -35,6 +50,14 @@ Look, another logic book!  This one might be preferable just because there's muc
 about what's going on and less unmotivated symbol-pushing than in E/F/T.  The flip side of that
 is, the constructions may or may not be epsilon less precise.  I'm not a logician; if you are,
 write some reviews so I can replace these lousy ones!
+
+#### Chang & Keisler, *Model Theory*
+
+**[Noah Schoem]**
+
+[MR 0532927](https://mathscinet.ams.org/mathscinet-getitem?mr=0532927)
+
+Standard graduate introduction to model theory; Math 277 sometimes teaches the basics of formal logic and model theory (i.e. Completeness, Compactness, and Löwenheim-Skolem) from the first two chapters. Heavily covers ultrapowers and saturation, which is interesting material, but forms only a small part of model theory and isn't a major focus of active research.
 
 #### Landau, *Foundations of analysis*
 
