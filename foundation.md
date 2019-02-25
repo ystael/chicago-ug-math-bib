@@ -90,8 +90,7 @@ derivative, or even limits and continuity.
 
 #### <a name="hardy-course-pure-mathematics"></a> G. H. Hardy, *A course of pure mathematics*
 
-#### <a name="courant-diff-int-calculus-i"></a> Richard Courant, *Differential and integral
-     calculus* volume I
+#### <a name="courant-diff-int-calculus-i"></a> Richard Courant, *Differential and integral calculus* volume I
 
 These two are for "culture". They are classic treatments of the calculus, from back when a math
 book was rigorous, period. Hardy focuses more on conceptual elegance and development (beginning by
@@ -132,8 +131,7 @@ treats the multivariable calculus material in about 200 densely packed pages. In
 nothing surprising here, except that there are so few books on this topic at this level that you'd
 want to keep.
 
-#### <a name="courant-john-calculus-analysis-ii"></a> Richard Courant & Fritz John, *Introduction
-     to calculus and analysis* volume II
+#### <a name="courant-john-calculus-analysis-ii"></a> Richard Courant & Fritz John, *Introduction to calculus and analysis* volume II
 
 The second volume of Courant's *Differential and integral calculus* was revised much more
 substantially than the first, and because of the way standards of rigor have evolved, you're
@@ -231,7 +229,6 @@ the lack of sophistication makes for some unmotivated technical carpentry.
 
 #### <a name="ross-diffeq"></a> Shepley Ross, *Differential equations*
 
-#### <a name="birkhoff-rota-ode"><</a> Garrett Birkhoff & Gian-Carlo Rota, *Ordinary differential
-     equations*
+#### <a name="birkhoff-rota-ode"><</a> Garrett Birkhoff & Gian-Carlo Rota, *Ordinary differential equations*
 
 #### <a name="arnold-ode"></a> V. I. Arnol'd, *Ordinary differential equations*
