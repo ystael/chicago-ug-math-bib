@@ -38,12 +38,12 @@ you have to approach it as an unmotivated cookbook of procedures to memorize.
   * [Apostol volume I](#apostol-calculus-i) if you want to bias toward computations and
     applications
 * Calculus of several variables
-  * [Apostol volume II](#apostol-calculus-ii) volume II
+  * [Apostol volume II](#apostol-calculus-ii)
 * Linear algebra
   * [Artin](#artin-algebra) for a theory bias
   * [Strang](#strang-linear-algebra) for an applications bias
 * Ordinary differential equations
-  * [Arnold](#arnold-ode) for a theory bias
+  * [Arnol'd](#arnold-ode) for a theory bias
   * [Birkhoff & Rota](#birkhoff-rota-ode) for an applications bias
 
 ## <a name="calculus-one"></a> Calculus of one variable
@@ -229,6 +229,6 @@ the lack of sophistication makes for some unmotivated technical carpentry.
 
 #### <a name="ross-diffeq"></a> Shepley Ross, *Differential equations*
 
-#### <a name="birkhoff-rota-ode"><</a> Garrett Birkhoff & Gian-Carlo Rota, *Ordinary differential equations*
+#### <a name="birkhoff-rota-ode"></a> Garrett Birkhoff & Gian-Carlo Rota, *Ordinary differential equations*
 
 #### <a name="arnold-ode"></a> V. I. Arnol'd, *Ordinary differential equations*
