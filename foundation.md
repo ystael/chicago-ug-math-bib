@@ -115,8 +115,10 @@ least a bit of topology; to prove Stokes's theorem fully needs quite a bit more.
 For this reason some people might urge ambitious pure mathematics students to skip this area
 entirely in favor of deriving it from analysis in **R**^n later (as Baby Rudin does in a few pages
 at the end of Chapter 10). I can't recommend this. It's worth sharing a language with the people
-around you and knowing what their applications are, and if you never learn basic vector calculus,
-you're going to have a lot of trouble when you want to study magnetic fields!
+around you and knowing what their applications are, and if you never learned basic vector
+calculus, you're going to have a lot of trouble when you want to study magnetic fields! (If you
+had the cookbook version in high school and you're comfortable doing computations, the advice to
+skip is much more reasonable.)
 
 For these more sophisticated treatments, see [Calculus in Euclidean
 space](ground-floor-analysis.md#calculus-euclidean) -- although the books reviewed here already
@@ -127,7 +129,7 @@ lie quite a bit farther in that direction than, say, Stewart.
 If you read Apostol volume I, you know what to expect here; in fact the last two chapters of
 volume I reappear at the beginning here, as part of a nearly complete first course in linear
 algebra. Following that, and a good chunk of a first course in differential equations too, Apostol
-treats the multivariable calculus material in about 200 densely packed pages. In a sense there's
+covers the multivariable calculus material in about 200 densely packed pages. In a sense there's
 nothing surprising here, except that there are so few books on this topic at this level that you'd
 want to keep.
 
@@ -135,7 +137,7 @@ want to keep.
 
 The second volume of Courant's *Differential and integral calculus* was revised much more
 substantially than the first, and because of the way standards of rigor have evolved, you're
-likely to find the older one quite confusing. Courant and John treat linear algebra and
+likely to find the older one quite confusing. Courant and John cover linear algebra and
 differential equations in much less depth than Apostol does. In exchange, there's a wider variety
 of applications treated at length, and a more in-depth discussion of the geometry and topology
 involved in multivariable calculus.
@@ -227,8 +229,48 @@ the lack of sophistication makes for some unmotivated technical carpentry.
 
 ## Ordinary differential equations
 
-#### <a name="ross-diffeq"></a> Shepley Ross, *Differential equations*
+Unlike the case of linear algebra, *how much* you need to know about ordinary differential
+equations is often debated. Some people argue that the classical techniques of solving
+differential equations are basically useless -- that all you really need are the basic existence
+theory (local straightening of vector fields) and linear systems with constant coefficients (via
+the matrix exponential); and all the interesting material beyond there belongs to dynamical
+systems. Gian-Carlo Rota himself famously espoused this view in his essay "Ten lessons I wish I
+had learned before I started teaching differential equations", where he criticized most of the
+content of standard texts (including his!) as historical relics.
+
+Students considering analysis or applied mathematics, however, might find themselves wishing they
+had learned more about Laplace transforms or Bessel functions or the hypergeometric equation; and
+in cases like this a more traditional text might be called for.
+
+#### <a name="arnold-ode"></a> V. I. Arnol'd, *Ordinary differential equations*
+
+This book set the standard for the theory-centered or dynamical-systems-centered point of view
+described above. This is first and foremost a book about the flows of vector fields. Even in the
+case of first-order linear systems with constant coefficients, primary emphasis is given not to
+computational techniques of solution but on what linear algebra can tell you about the structural
+properties of the system's flow. Nevertheless there is substantial material on how to reduce a
+differential equation to linear form and solve it, although no Laplace transform techniques or the
+like. Arnold explains it all coherently at an advanced-calculus level (manifolds appear at the
+end), complete with many beautiful diagrams.
+
+Like many Russian books, this one can feel discursive and unsystematic to readers accustomed to
+the section-exercises-section-exercises flow of standard American texts. It's worth getting used
+to it, because Arnol'd is a master expositor.
 
 #### <a name="birkhoff-rota-ode"></a> Garrett Birkhoff & Gian-Carlo Rota, *Ordinary differential equations*
 
-#### <a name="arnold-ode"></a> V. I. Arnol'd, *Ordinary differential equations*
+Think of this book as the Apostol of differential equations: a concise, rigorous first course in
+the traditional material, without all the blather of standard texts. It's used for 18.034, the
+honors first course at MIT. Laplace transforms are not discussed, but several of the classical
+special functions appear throughout, and the book ends with a discussion of orthogonal
+polynomials.
+
+I have heard, though I do not know from my own experience, that this book is notoriously full of
+errors, particularly in the exercises. Independent students should be accordingly wary.
+
+#### <a name="ross-diffeq"></a> Shepley Ross, *Differential equations*
+
+If you're looking for more exposition about the methods of solution of differential equations than
+you can find in Birkhoff & Rota, you could do much worse than this older (1984) standard
+text. Yes, it's fat, but mostly quite clear.
+
