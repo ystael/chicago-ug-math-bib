@@ -37,7 +37,7 @@ contributors are marked; thanks to all of them for their input:
 * [How to Learn Math and Physics, by John Baez](http://math.ucr.edu/home/baez/books.html)
 * [The syllabus of the Cambridge Mathematical Tripos (PDF)](https://www.maths.cam.ac.uk/undergrad/course/schedules.pdf)
 * [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
-* [So you'd like to... Get Maturity in Pure Mathematics for Grad School](http://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
+* [So you'd like to... Get Maturity in Pure Mathematics for Grad School](https://web.archive.org/web/20150201054651/https://www.amazon.com/gp/richpub/syltguides/fullview/20JWVDEKMUJQ2)
 
 ### Republication
 
